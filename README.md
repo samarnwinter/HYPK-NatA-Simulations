@@ -1,4 +1,4 @@
-# HYPK-NatA-Simulations
+# HYPK-NatA-RNC Simulations
 --------------------------------------------------------------------
 This repository contains MATLAB scripts used for the kinetic modeling and quantitative analysis of HYPK–NatA-mediated cotranslational N-terminal acetylation (NTA), as described in the study: “HYPK promotes N-terminal acetylation through rapid ribosome exchange of NatA.”
 This repository contains three MATLAB (.m) files:
