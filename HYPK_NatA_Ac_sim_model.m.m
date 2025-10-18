@@ -1,3 +1,20 @@
+% Stochastic model for HYPK–NatA-mediated cotranslational N-terminal acetylation
+% -------------------------------------------------------------------------
+% This MATLAB script implements a stochastic kinetic model of
+% cotranslational N-terminal acetylation (NTA) catalyzed by the NatA complex
+% in the presence or absence of HYPK. The system is modeled using discrete
+% reaction events governed by rate constants for NatA–ribosome association
+% (k12, k43), dissociation (k21, k34), acetylation (k23),
+% along with translation elongation rate (ω) and coding sequence length (L).
+%------------------------------------------------------------------------
+% Usage:
+%   Run directly in MATLAB:
+%       HYPK_NatA_Ac_sim_model.m
+%
+% Author: Inayat Ulah Irshad
+% Date: October 2025
+
+
 clear all;clc; close all;
 tic
 n=300; 
