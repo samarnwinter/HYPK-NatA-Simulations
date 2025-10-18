@@ -4,7 +4,7 @@
 % equation describing the kinetic network of NatA–ribosome–HYPK interactions
 % during translation. The model calculates the  steady state probabilities  of
 % different kinetic states as functions of the translation elongation rate
-% (ω), association rate (k12), dissociation rate (k21), and coding sequence
+% (ω), RNC NatA association (k12, k43), dissociation (k21, k34), acetylation (k23), and coding sequence
 % length (L).
 %----------------------------------------------------------------------------
 % Usage:
