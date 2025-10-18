@@ -1,7 +1,7 @@
 % Analytical kinetic model for cotranslational N-terminal acetylation (NTA)
 % -------------------------------------------------------------------------
-% This MATLAB script implements the analytical solution of the master
-% equation describing the kinetic network of NatA–ribosome–HYPK interactions
+% This MATLAB script is a master equation based model
+% describing the kinetic network of NatA–ribosome–HYPK interactions
 % during translation. The model calculates the  steady state probabilities  of
 % different kinetic states as functions of the translation elongation rate
 % (ω), RNC NatA association (k12, k43), dissociation (k21, k34), acetylation (k23), and coding sequence
