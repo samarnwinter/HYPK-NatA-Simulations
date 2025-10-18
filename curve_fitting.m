@@ -1,3 +1,4 @@
+% This code fits an superposition of three Gaussian fxns to the K3 experimental data
 % =====Normalized Elongation Rate (k3) vs Nascent Chain Length =====
 
 % ===================Experimental data ============================
@@ -65,6 +66,7 @@ axis tight
 pbaspect([1.4 1 1])
 
 hold off
+
 
 
 
